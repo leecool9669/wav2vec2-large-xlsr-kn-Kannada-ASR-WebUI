@@ -1,0 +1,1 @@
+# 使用示例请参考主仓库 wav2vec2-large-xlsr-kn-WebUI 的 wav2vec2_usage_example.py

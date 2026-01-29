@@ -1,0 +1,1 @@
+# 请参考主仓库 wav2vec2-large-xlsr-kn-WebUI 的 app.py，本仓库仅作为镜像示例。

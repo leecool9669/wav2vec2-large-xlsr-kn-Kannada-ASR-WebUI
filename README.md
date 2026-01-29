@@ -1,0 +1,1 @@
+同主仓库 wav2vec2-large-xlsr-kn-WebUI，展示基于 wav2vec2-large-xlsr-kn 的 Kannada 自动语音识别 WebUI 原型界面与示例代码。

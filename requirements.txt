@@ -1,0 +1,1 @@
+# 依赖请参考主仓库 wav2vec2-large-xlsr-kn-WebUI 的 requirements.txt
